@@ -1,0 +1,23 @@
+
+.a{
+    width: 450px;
+    height: 300px;
+ border: 2px solid black;
+   
+
+}
+.b{
+height:300px ;
+width: 150px;
+background-color: #231f20;
+}
+.c{
+    height: 300px;
+    width: 150px;
+  top: 9.9px;
+    background-color: #ed1b24;
+    display: inline;
+    position: absolute;
+    margin-left: 300px;
+    }
+    
